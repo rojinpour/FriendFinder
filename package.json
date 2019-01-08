@@ -18,17 +18,12 @@
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/angrbrd/friend-finder.git"
+      "url": "git+https://github.com/rojinpour/FriendFinder.git"
     },
-    "keywords": [
-      "friend-finder",
-      "friend-match",
-      "compatibility"
-    ],
     "author": "Rojin Pourkhomami",
     "license": "ISC",
     "bugs": {
-      "url": "https://github.com/angrbrd/friend-finder/issues"
+      "url": "https://github.com/rojinpour/FriendFinder/issues"
     },
-    "homepage": "https://github.com/angrbrd/friend-finder#readme"
+    "homepage": "https://github.com/rojinpour/FriendFinder#readme"
   }

@@ -11,12 +11,17 @@ header {
     height: 100px;
 }
 
+main {
+    flex: 1 0 auto;
+}
+
 header > nav {
     height: 100%;
 }
 
-main {
-    flex: 1 0 auto;
+#head-nav-links {
+    margin-right: 50px;
+    margin-top: 20px;
 }
 
 main h1 {
@@ -34,11 +39,6 @@ main h1 {
 
 #logo {
     margin-left: 50px;
-    margin-top: 20px;
-}
-
-#head-nav-links {
-    margin-right: 50px;
     margin-top: 20px;
 }
 
