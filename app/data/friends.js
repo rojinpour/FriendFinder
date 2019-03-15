@@ -1,6 +1,6 @@
 var friendsArray = [
 	{
-		name: 'Bob',
+		name: 'Brandon',
 		photo: 'https://dummyimage.com/200x200/000/fff',
 		scores: [
 			'2',
@@ -16,7 +16,7 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Andrew',
+		name: 'Amy',
 		photo: 'https://dummyimage.com/200x200/000/fff',
 		scores: [
 			'1',
@@ -32,7 +32,7 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Liam',
+		name: 'Joe',
 		photo: 'https://dummyimage.com/200x200/000/fff',
 		scores: [
 			'1',
@@ -48,7 +48,7 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Zack',
+		name: 'Eli',
 		photo: 'https://dummyimage.com/200x200/000/fff',
 		scores: [
 			'5',
@@ -64,7 +64,7 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Joe',
+		name: 'Skye',
 		photo: 'https://dummyimage.com/200x200/000/fff',
 		scores: [
 			'4',
@@ -80,7 +80,7 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Nathan',
+		name: 'Erik',
 		photo: 'https://dummyimage.com/200x200/000/fff',
 		scores: [
 			'1',
@@ -96,7 +96,7 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Drake',
+		name: 'Brooke',
 		photo: 'https://dummyimage.com/200x200/000/fff',
 		scores: [
 			'5',
@@ -112,7 +112,7 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Henry',
+		name: 'Moe',
 		photo: 'https://dummyimage.com/200x200/000/fff',
 		scores: [
 			'5',
@@ -128,7 +128,7 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Sami',
+		name: 'Donna',
 		photo: 'https://dummyimage.com/200x200/000/fff',
 		scores: [
 			'5',
@@ -144,7 +144,7 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Nick',
+		name: 'Anthony',
 		photo: 'https://dummyimage.com/200x200/000/fff',
 		scores: [
 			'1',

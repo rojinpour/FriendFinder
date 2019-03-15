@@ -1,14 +1,9 @@
 body {
-    width: 75%;
-   margin: 0px auto; 
-
+    margin: 0px auto; 
+    width: 55%;
    display: flex;
-   min-height: 100vh;
    flex-direction: column;
-}
-
-header {
-    height: 100px;
+   min-height: 100vh;
 }
 
 main {
@@ -19,33 +14,38 @@ header > nav {
     height: 100%;
 }
 
+header {
+    height: 100px;
+}
+
 #head-nav-links {
     margin-right: 50px;
     margin-top: 20px;
 }
 
 main h1 {
+    font-size: 70px;
     font-weight: bold;
 }
 
  main h2 {
-    font-weight: 300;
+    font-size: 40px;
+}
+
+.mainpanel{
+    margin: 30px;
+ }
+
+ #mainpanel-content {
+    margin: 50px;
 }
 
 #logo-icon {
-   margin-left: 50px;
+   margin-left: 300px;
    margin-top: 20px;
 }
 
 #logo {
     margin-left: 50px;
     margin-top: 20px;
-}
-
-.mainpanel{
-   margin: 50px;
-}
-
-#mainpanel-content {
-    margin: 50px;
 }
